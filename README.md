@@ -1,5 +1,3 @@
-![GitHub Banner](https://your-image-url.com/banner.png)
-
 <h1 align="center">Hi, I'm Balaji V 👋</h1>
 
 <p align="center">
